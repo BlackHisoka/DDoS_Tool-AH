@@ -28,6 +28,7 @@ $ apt-get update -y && apt-get install git && git clone https://github.com/Black
  أخطاء؟ استكشاف الأخطاء وإصلاحها هنا: إذا كان الأمر يتعلق بالمكتبات، فما عليك سوى كتابة هذه السلاسل: 
 
 $ pip install tqdm
+
 $ pip install pyfiglet
 
 قناتي 
