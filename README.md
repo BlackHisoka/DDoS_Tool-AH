@@ -29,11 +29,5 @@ apt-get update -y && apt-get install git && git clone https://github.com/BlackHi
 pip install tqdm
 pip install pyfiglet
 ```
-
-## Screenshots? Here they are:
-
-![plot](https://img.onl/7g5Fm2)
-
-![plot](https://img.onl/esgH8x)
-
-
+قناتي 
+https://t.me/Black_R00T
