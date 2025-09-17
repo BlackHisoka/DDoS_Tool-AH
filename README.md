@@ -1,9 +1,5 @@
 # اداة Ddos attack (AHarmy)
 
-![plot](https://img.onl/o5Lmd2)
-
-## What is  Cyber DDoS Tool?
-```diff
 ! هذه هي أفضل أداة لهجمات DDoS على جيثب.  
 ```
 
