@@ -9,10 +9,15 @@ Installing (_Windows/Linux/MacOs/Termux_)
 
 
 $ apt-get update -y
+
 $ apt-get install git
+
 $ git clone https://https://github.com/BlackHisoka/DDoS_Tool-AH.git
+
 $ cd DDoS-Tool
+
 $ python3 DDoS_Tool.py
+
 
 
 ## One line Installation:
